@@ -46,6 +46,6 @@ IAM Role 이 만들어지면 Create Notebook instance 를 클릭합니다.
 
 노트북이 만들어지면 아래의 Git 명령어를 실행합니다.
 
-git clone https://github.com/lunarian60/direct-marketing.git
+!git clone https://github.com/lunarian60/direct-marketing.git
 
 ![image](https://user-images.githubusercontent.com/13167486/126526682-4dc805e6-4030-43a4-a276-eb3fe0492464.png)
